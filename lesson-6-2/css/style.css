@@ -1,4 +1,18 @@
+* {
+	box-sizing: border-box;
+	}
 
+.bloc {
+	position: absolute;
+	width: 300px;
+	height: 400px;
+	border: 2px solid #838e95;
+	padding: 20px 30px;
+	left: 50%;
+	margin-left: -150px;
+	top: 50%;
+	margin-top: -200px;
+}
 	
 
 
