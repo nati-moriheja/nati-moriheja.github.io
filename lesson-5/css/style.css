@@ -1,0 +1,45 @@
+body {
+	width: 65%;
+	margin: auto;
+	font-family: 'Open Sans', sans-serif;
+	background-color: #eaeaee;
+}
+.hed {
+	height: 100vh;
+}
+h1 {
+	text-align: center;
+	color: #236092;
+}
+h2 {
+	color: #236092;
+}
+h3 {
+	text-decoration: underline;
+}
+.into{
+	float:left;
+	margin: 4px 40px 2px 0px; 
+	max-width: 300px;
+}
+.shema {
+	max-height: 600px;
+
+}
+span {
+	font-weight: bold;
+	font-style: italic;
+}
+p {
+	text-align: justify;
+}
+.brd {
+	border: 2px solid #236092;
+	padding: 10px;
+	border-radius: 10px;
+	width: 75%;
+	margin-right: 12.5%;
+	margin-left: 12.5%;
+	background-color: #f8eeec;
+
+}
