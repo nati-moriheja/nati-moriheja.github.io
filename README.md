@@ -31,7 +31,7 @@
 
 [Урок 11-2](https://cloud.mail.ru/public/539E/QontYnXg1 "Сниппет") - Сниппет-1
 
-[Урок 11-3](https://cloud.mail.ru/public/9GVw/gLQRuJ7re "Сниппеты") - Сниппеты-2
+[Урок 11-3](https://cloud.mail.ru/public/9GVw/gLQRuJ7re "Сниппеты") - Сниппет-2
 
 [Урок 12](https://nati-moriheja.github.io/ "Хостинг от GitHub") - Хостинг от GitHub
 
