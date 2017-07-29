@@ -1,0 +1,29 @@
+* {
+	box-sizing: border-box;
+	}
+
+.boss {
+	width: 100%;
+	position: relative;
+	background-color: #000;
+	height: 50px;
+	position: fixed;
+	left: 0px;
+	top: 10px;
+	text-align: right; 
+}
+a {
+	display: inline-block;
+	color: #fff;	
+	margin-right: 50px;
+	margin-top: 10px;	
+}
+.mrg {
+	margin-top: 70px;
+}
+
+
+	
+
+
+	
