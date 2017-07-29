@@ -11,7 +11,7 @@
 
 ### Модуль 2. Изучение основ HTML и CSS
 
-[Урок 04](https:https://nati-moriheja.github.io/lesson-4/ "Знакомство с основами HTML ") - Знакомство с основами HTML 
+[Урок 04](https://nati-moriheja.github.io/lesson-4/ "Знакомство с основами HTML ") - Знакомство с основами HTML 
 
 [Урок 05](https://nati-moriheja.github.io/lesson-5/ "Знакомство с основами CSS ") - Знакомство с основами CSS 
 
