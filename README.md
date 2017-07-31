@@ -11,9 +11,9 @@
 
 ### Модуль 2. Изучение основ HTML и CSS
 
-[Урок 04](https://nati-moriheja.github.io/lesson-4/ "Знакомство с основами HTML") - Знакомство с основами HTML 
+[Урок 04](https://nati-moriheja.github.io/lesson-4/ "Знакомство с основами HTML") - Знакомство с основами HTML - книга
 
-[Урок 05](https://nati-moriheja.github.io/lesson-5/ "Знакомство с основами CSS") - Знакомство с основами CSS 
+[Урок 05](https://nati-moriheja.github.io/lesson-5/ "Знакомство с основами CSS") - Знакомство с основами CSS - книга
 
 [Урок 06-1](https://nati-moriheja.github.io/lesson-6-1/ "Позиционирование в CSS - фиксированное меню") - Позиционирование в CSS - фиксированное меню
 
@@ -25,7 +25,7 @@
 
 [Урок 09](https://nati-moriheja.github.io/lesson-9/ "Верстка при помощи bootstrap") - Верстка при помощи bootstrap
 
-[Урок 10](https://nati-moriheja.github.io/lesson-10/ "Препроцессор LESS для CSS") - Препроцессор LESS для CSS
+[Урок 10](https://nati-moriheja.github.io/lesson-10/ "Препроцессор LESS для CSS") - Препроцессор LESS для CSS - машинки
 
 [Урок 11-1](https://cloud.mail.ru/public/JyEQ/hWjTFy8vA "Тренажер emmet ") - Тренажер emmet 
 
@@ -34,6 +34,11 @@
 [Урок 11-3](https://cloud.mail.ru/public/9GVw/gLQRuJ7re "Сниппеты") - Сниппет-2
 
 [Урок 12](https://nati-moriheja.github.io/ "Хостинг от GitHub") - Хостинг от GitHub
+
+### Модуль 5. Полноценная практика
+
+[Урок 13](https://nati-moriheja.github.io/lesson-13/ "Адаптивная верстка") - Адаптивная верстка - форма
+
 
 ## Интенсив
 
