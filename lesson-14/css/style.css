@@ -1,26 +1,27 @@
 
 @font-face {
 	font-family: 'Lato';
-	src: url('Lato-Regular.eot');
-	src: url('Lato-Regular.eot?#iefix') format('embedded-opentype'),
-		url('Lato-Regular.woff2') format('woff2'),
-		url('Lato-Regular.woff') format('woff'),
-		url('Lato-Regular.ttf') format('truetype'),
-		url('Lato-Regular.svg#Lato-Regular') format('svg');
+	src: url('../fonts/Lato/fonts/Bebas/');
+	src: url('../fonts/Lato/Lato-Regular.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/Lato/Lato-Regular.woff2') format('woff2'),
+		url('../fonts/Lato/Lato-Regular.woff') format('woff'),
+		url('../fonts/Lato/Lato-Regular.ttf') format('truetype'),
+		url('../fonts/Lato/Lato-Regular.svg#Lato-Regular') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 @font-face {
 	font-family: 'Bebas Neue';
-	src: url('BebasNeueRegular.eot');
-	src: url('BebasNeueRegular.eot?#iefix') format('embedded-opentype'),
-		url('BebasNeueRegular.woff2') format('woff2'),
-		url('BebasNeueRegular.woff') format('woff'),
-		url('BebasNeueRegular.ttf') format('truetype'),
-		url('BebasNeueRegular.svg#BebasNeueRegular') format('svg');
+	src: url('../fonts/Bebas/BebasNeueRegular.eot');
+	src: url('../fonts/Bebas/BebasNeueRegular.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/Bebas/BebasNeueRegular.woff2') format('woff2'),
+		url('../fonts/Bebas/BebasNeueRegular.woff') format('woff'),
+		url('../fonts/Bebas/BebasNeueRegular.ttf') format('truetype'),
+		url('../fonts/Bebas/BebasNeueRegular.svg#BebasNeueRegular') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
+
 body {
 	font-family: 'Lobster', cursive;
 	font-family: 'Open Sans', sans-serif; 
@@ -46,11 +47,15 @@ small {
 }
 .bbs {
 	font-family: 'Bebas Neue';
+	font-weight: normal;
+	font-style: normal;
 }
 .lt {
-	font-family: 'Lato';
+		font-family: 'Lato';
+		font-weight: 300;
+	font-style: normal;
 }
 .lbsr {
-	font-family: 'Lobster', cursive;
+	font-family: 'Lobster', cursive, sans-serif;
 }
 
