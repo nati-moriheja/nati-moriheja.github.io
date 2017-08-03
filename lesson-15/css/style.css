@@ -1,0 +1,118 @@
+body {
+  font-family: Arial, sans-serif;
+}
+.section {
+	text-align: center;
+	margin-top: 10%;	
+}
+.box-1 {
+	position: relative;
+ display: inline-block;
+ height: 200px;
+ width: 300px;
+ }	
+
+.box-1::before {
+  position: absolute;
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(128, 128, 128, 0.7);
+  content: 'Привет,';
+  line-height: 70px;
+  text-align: center;
+  font-size: 36px;
+  font-weight: 900;
+  text-shadow: 2px 2px 2px #fff;  
+  transform: scaleY(0);
+  transition: all 0.5s;	
+}
+
+.box-1:hover::before {
+	transform: scaleY(1);
+ transition: all 0.5s;
+}
+
+.box-2 {
+	position: relative;
+ display: inline-block;
+ height: 200px;
+ width: 300px;
+ }	
+
+.box-2::before {
+  position: absolute;
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(128, 128, 128, 0.7);
+  content: 'желаю';
+  line-height: 120px;
+  text-align: center;
+  font-size: 36px;
+  font-weight: 900;
+  text-shadow: 2px 2px 2px #fff;  
+  transform: scaleY(0);
+  transition: all 0.5s;	
+}
+
+.box-2:hover::before {
+	transform: scaleY(1);
+transition: all 0.5s;
+}
+
+.box-3 {
+	position: relative;
+ display: inline-block;
+ height: 200px;
+ width: 300px;
+ }	
+
+.box-3::before {
+  position: absolute;
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(128, 128, 128, 0.7);
+  content: 'приятной';
+  line-height: 220px;
+  text-align: center;
+  font-size: 36px;
+  font-weight: 900;
+  text-shadow: 2px 2px 2px #fff;  
+  transform: scaleY(0);
+  transition: all 0.5s;	
+}
+
+.box-3:hover::before {
+	transform: scaleY(1);
+transition: all 0.5s;
+}
+
+.box-4 {
+	position: relative;
+ display: inline-block;
+ height: 200px;
+ width: 300px;
+ }	
+
+.box-4::before {
+  position: absolute;
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(128, 128, 128, 0.7);
+  content: 'проверки!';
+  line-height: 300px;
+  text-align: center;
+  font-size: 36px;
+  font-weight: 900;
+  text-shadow: 2px 2px 2px #fff;  
+  transform: scaleY(0);
+  transition: all 0.5s;	
+}
+
+.box-4:hover::before {
+	transform: scaleY(1);
+transition: all 0.5s;
+}
