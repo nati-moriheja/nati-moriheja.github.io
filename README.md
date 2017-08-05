@@ -59,6 +59,8 @@
 
 [Урок 16-praktika](https://nati-moriheja.github.io/lesson-16-praktika/ "Верстка блока с преимуществами. Слайдер") - Верстка блока с преимуществами. Слайдер
 
+[Урок 17-praktika](https://nati-moriheja.github.io/lesson-17-praktika/ "Верстка всплывающих окон на сайте") - Верстка всплывающих окон на сайте
+
 ## Интенсив
 
 [Портфолио](https://nati-moriheja.github.io/intensiv// "Портфолио за три дня") - Портфолио за три дня
