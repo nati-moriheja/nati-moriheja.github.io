@@ -197,8 +197,7 @@ section {
 }
 .arrow {
   top: 50%;
-  -webkit-transform: scaleY(-50%);
-          transform: scaleY(-50%);
+  transform: scaleY(-50%);          
   position: absolute;
   z-index: 99;
   width: 2rem;
