@@ -18,10 +18,9 @@ body {
 .tab-in {
 	font-size: 24px;
 	margin-left: 30px;
-
 }
 .tab-up {
-	font-size: 24px;
+	font-size: 24px;	
 }
 .nav-tabs {
   border-bottom: none;
@@ -32,6 +31,7 @@ body {
   background-color: #03a5da;
   margin-left: 30px;
   margin-right: 10px;
+  border: none;
   }
 .nav-tabs>li>a {
   background-color: #fff;
@@ -59,7 +59,7 @@ body {
 	margin-left: 25px;
 }
 .form-user {
-	margin-top: 50px;
+	margin-top: 30px;
 }
 p {
 	font-size: 15px;
@@ -68,42 +68,64 @@ p {
 }
 .form-chek {
  display: inline-block;
- margin-top: 25px;
+ margin-top: 40px;
  margin-left: 50px;
 }
 .form-control::-webkit-input-placeholder {
 color: #ffffff;
 }
-
-.btn {    
- position:absolute;
- width: 130px;
- height: 50px;
- margin-top: 10px;
- margin-left: 310px;
- font-size: 24px;
- color: #fff;
- background-color: #900b01;  
- border: none;
- box-shadow: 0 0 10px #000000;
+label {
+	color: #6f6d6d;
 }
 
-/*.btn{
-position: absolute; // позиция при которой объект не реагирует на остальных
-width: 130px; // ширина
-height: 40px; // высота
-text-align: center; // текст по центру
-color: #ffffff; // цвет текста
-font-size: 24px; // высота текста
-line-height: 40px; // вертикальное выравнивание текста
+
+.form-btn {
+  position: absolute;
+  width: 130px;
+  height: 40px;
+  background: #fff;
+  text-align: center;
+  color: #ffffff;
+  font-size: 24px;
+  line-height: 40px;
+  background: radial-gradient(#e02504, #7f0501);
+  border: none;
+  margin-top: -40px;
+  margin-left: 470px;
+  box-shadow: 0 0 10px #000000;
+  outline: none;
+}
+.form-btn::after {
+  content: '';
+  position: absolute;
+  left: 45px;
+  border: 7px solid transparent;
+  border-left: 7px solid #7f0501;
+  border-top: 7px solid #7f0501;
+  margin-left: 70px;
+  margin-top: 39px;
+}
+
+
+
+
+.класс-кнопки {
+position: absolute;            // позиция при которой объект не реагирует на остальных
+width: 130px;                 // ширина
+height: 40px;                  // высота
+background: #fff;
+text-align: center;            // текст по центру
+color: #ffffff;                // цвет текста
+font-size: 24px;              // высота текста
+line-height: 40px;            // вертикальное выравнивание текста
 background: radial-gradient(#e02504, #7f0501); // градиент круговой, левый цвет светлее, правый темнее
-border: none; // отключаем границы стандартной кнопки
-margin-top: -30px; // подвигаю кнопку выше относительно ее положения
-margin-left: 400px; // отталкиваю ее от левого края
+border: none;                // отключаем границы стандартной кнопки
+margin-top: -30px;           // подвигаю кнопку выше относительно ее положения
+margin-left: 400px;          // отталкиваю ее от левого края
 box-shadow: 0 0 10px #000000; // придаю ей тень по кругу
-outline: none; // убираем обводку при активном состоянии
+outline: none;               // убираем обводку при активном состоянии
 }
-.btn::after { // привязываем псевдокласс к кнопке
+.класс-кнопки::after { // привязываем псевдокласс к кнопке
 content: ''; // контент оставляем пустой, мол тут будет какой-то контент
 position: absolute; // позиция, чтоб он тож не реагировал на других
 left: 45px; // отступ от левого края
@@ -111,5 +133,5 @@ border-left: 7px solid #7f0501; // крашу в самый темный цве�
 border-top: 7px solid #7f0501;
 margin-left: 70px;
 margin-top: 39px;
-}
-*/
+
+
