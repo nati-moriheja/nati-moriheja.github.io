@@ -92,7 +92,7 @@ label {
   border: none;
   margin-top: -40px;
   margin-left: 470px;
-  box-shadow: 0 0 10px #000000;
+  box-shadow: 0px 0px 200px rgba(255,255,255,0.3);
   outline: none;
 }
 .form-btn::after {
