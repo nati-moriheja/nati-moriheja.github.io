@@ -49,8 +49,9 @@
 
 [Урок 17](https://nati-moriheja.github.io/lesson-17/ "Всплывающие окна") - Всплывающие окна
 
-
 [Урок 18](https://nati-moriheja.github.io/lesson-18/ "Табы и аккордеон на сайте") - Табы и аккордеон на сайте
+
+[Урок 19](https://nati-moriheja.github.io/lesson-19/ "Анимация на CSS3") - Анимация на CSS3
 
 
 ### Модуль 5-1. Полноценная практика - Практика
