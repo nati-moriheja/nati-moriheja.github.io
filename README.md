@@ -66,7 +66,9 @@
 
 [Урок 17-praktika](https://nati-moriheja.github.io/lesson-17-praktika/ "Верстка всплывающих окон на сайте") - Верстка всплывающих окон на сайте
 
-[Урок 18-praktika](https://nati-moriheja.github.io/lesson-18-praktika/ "Верстка блока с ценами ") - Верстка блока с ценами 
+[Урок 18-praktika](https://nati-moriheja.github.io/lesson-18-praktika/ "Верстка блока с ценами") - Верстка блока с ценами 
+
+[Урок 19-praktika](https://nati-moriheja.github.io/lesson-19-praktika/ "Верстка блока с отзывами") - Верстка блока с отзывами  
 
 ## Интенсив
 
