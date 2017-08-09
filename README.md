@@ -72,6 +72,8 @@
 
 [Урок 19-praktika](https://nati-moriheja.github.io/lesson-19-praktika/ "Верстка блока с отзывами") - Верстка блока с отзывами  
 
+[Урок 20-praktika](https://nati-moriheja.github.io/lesson-20-praktika/ "Доверстали блок с отзывами") - Доверстали блок с отзывами  
+
 ## Интенсив
 
 [Портфолио](https://nati-moriheja.github.io/intensiv// "Портфолио за три дня") - Портфолио за три дня
