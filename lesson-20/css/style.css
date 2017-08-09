@@ -5,11 +5,10 @@
   margin: 0;
 } 
 .section {
-  min-height: 100vh;
+  height: 100vh;
   text-align: center;
   width: 100%;
-  display: table;
-  
+  display: table;  
   background-size: cover;
 }
 .wrap-block {
