@@ -53,8 +53,11 @@
 
 [Урок 19](https://nati-moriheja.github.io/lesson-19/ "Анимация на CSS3") - Анимация на CSS3
 
-[Урок 20](https://nati-moriheja.github.io/lesson-20/ "Видео-фон на сайте. ") - Видео-фон на сайте. 
+[Урок 20](https://nati-moriheja.github.io/lesson-20/ "Видео-фон на сайте") - Видео-фон на сайте
 
+[Урок 21](https://nati-moriheja.github.io/lesson-21/ "Parallax эффект для сайта") - Parallax эффект для сайта
+
+[Урок 21-1](https://nati-moriheja.github.io/lesson-21-1/ "Parallax эффект для сайта") - Parallax эффект для сайта
 
 ### Модуль 5-1. Полноценная практика - Практика
 
