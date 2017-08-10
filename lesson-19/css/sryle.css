@@ -1,0 +1,145 @@
+body {
+  font-family: 'Myriad Pro', sans-serif;
+  background-image: url('../img/fon.jpg');
+}
+.nav {
+  margin-top: 35px;
+  width: 630px;
+}
+.tab-content {
+  width: 630px;
+  height: 410px;
+  background-color: #03a5da;
+  border-radius: 10px;
+  outline: none;
+  -webkit-box-shadow: 0 0 100px #747272;
+          box-shadow: 0 0 100px #747272;
+}
+.tab-in {
+  font-size: 24px;
+  margin-left: 30px;
+}
+.tab-up {
+  font-size: 24px;
+}
+.nav-tabs {
+  border-bottom: none;
+}
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:focus,
+.nav-tabs > li.active > a:hover {
+  color: #fff;
+  text-shadow: 1px 1px 2px #333;
+  background-color: #03a5da;
+  margin-left: 30px;
+  margin-right: 10px;
+  border: none;
+}
+.nav-tabs > li > a {
+  background-color: #fff;
+  margin-right: -20px;
+  border-top: none;
+}
+/* Форма*/
+.form-lesson {
+  position: absolute;
+  margin: 25px;
+  width: 580px;
+  height: 360px;
+  background-color: #000;
+  padding: 20px;
+  border-radius: 10px;
+}
+.form-control {
+  width: 480px;
+  height: 60px;
+  font-size: 24px;
+  color: #fff;
+  background-color: #1e1d1d;
+  border: none;
+  margin-left: 25px;
+}
+.form-user {
+  margin-top: 30px;
+}
+p {
+  font-size: 15px;
+  margin-left: 50px;
+  color: #c51f03;
+}
+.form-chek {
+  display: inline-block;
+  margin-top: 40px;
+  margin-left: 50px;
+}
+.form-control::-webkit-input-placeholder {
+  color: #ffffff;
+}
+label {
+  color: #6f6d6d;
+}
+.form-btn {
+  position: absolute;
+  width: 130px;
+  height: 40px;
+  background: #fff;
+  text-align: center;
+  color: #ffffff;
+  font-size: 24px;
+  line-height: 40px;
+  background: radial-gradient(#e02504, #7f0501);
+  border: none;
+  margin-top: -40px;
+  margin-left: 470px;
+  -webkit-box-shadow: 0px 0px 200px rgba(255, 255, 255, 0.3);
+          box-shadow: 0px 0px 200px rgba(255, 255, 255, 0.3);
+  outline: none;
+}
+.form-btn::after {
+  content: '';
+  position: absolute;
+  left: 45px;
+  border: 7px solid transparent;
+  border-left: 7px solid #7f0501;
+  border-top: 7px solid #7f0501;
+  margin-left: 70px;
+  margin-top: 39px;
+}
+@-webkit-keyframes move {
+  from {
+    margin-top: 500px;
+    margin-left: -1200px;
+  }
+  30% {
+    margin-top: 500px;
+    margin-left: 0px;
+  }
+  to {
+    margin-top: 35px;
+    margin-left: 0;
+  }
+}
+@keyframes move {
+  from {
+    margin-top: 500px;
+    margin-left: -1200px;
+  }
+  30% {
+    margin-top: 500px;
+    margin-left: 0px;
+  }
+  to {
+    margin-top: 35px;
+    margin-left: 0;
+  }
+}
+.forma {
+  -webkit-animation-name: move;
+          animation-name: move;
+  -webkit-animation-duration: 5s;
+          animation-duration: 5s;
+}
+.btn-sing-in {
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+}
