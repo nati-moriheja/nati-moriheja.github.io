@@ -1,0 +1,73 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.contact {
+  height: 100vh;
+  text-align: center;
+  padding-top: 55px;
+  padding-bottom: 10px;
+}
+h3 {
+  font-size: 30px;
+  font-weight: 700;
+}
+.footer-map {
+  position: absolute;
+  height: 400px;
+  width: 100%;
+  left: 0;
+  bottom: 0;
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  height: 60px;
+  width: 100%;
+  left: 0;
+  bottom: 0;
+  padding: 10px 0;
+}
+img {
+  margin: 0 -15px;
+}
+.call-block {
+  text-align: right;
+}
+.call {
+  font-size: 22px;
+  margin-bottom: 0;
+}
+.sert {
+  margin-top: 20px;
+  text-align: center;
+}
+.contact-blok {
+  position: absolute;
+  height: 400px;
+  width: 100%;
+  left: 0;
+  bottom: 0;
+  text-align: center;
+  background-color: #c60b0b;
+  color: #fff;
+}
+.contact-titl {
+  font-weight: 200;
+  margin-top: 55px;
+}
+.contact-text {
+  font-size: 18px;
+  margin-top: 25px;
+}
+a {
+  display: inline-block;
+  margin-top: 30px;
+  color: #fff;
+}
+a:hover {
+  color: #fff;
+}
