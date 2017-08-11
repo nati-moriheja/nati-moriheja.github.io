@@ -63,29 +63,32 @@
 
 ### Модуль 5-1. Полноценная практика - практика
 
-[Урок 13-praktika](https://nati-moriheja.github.io/lesson-13-praktika-1/ "Верстка шапки сайта") - Адаптивная верстка - Подготовка файлов. Верстка шапки сайта
+[Урок 13 - практика - 1](https://nati-moriheja.github.io/lesson-13-praktika/ "Верстка шапки сайта") - Адаптивная верстка - Подготовка файлов. Верстка шапки сайта
 
-[Урок 14-praktika](https://nati-moriheja.github.io/lesson-14-praktika-2/ "Подключение шрифтов. Верстка первого экрана") - Подключение шрифтов. Верстка первого экрана
+[Урок 14 - практика - 2](https://nati-moriheja.github.io/lesson-14-praktika/ "Подключение шрифтов. Верстка первого экрана") - Подключение шрифтов. Верстка первого экрана
 
-[Урок 15-praktika](https://nati-moriheja.github.io/lesson-15-praktika-3/ "Эффекты при наведении и адаптив первого экрана") - Эффекты при наведении и адаптив первого экрана
+[Урок 15 - практика - 3](https://nati-moriheja.github.io/lesson-15-praktika/ "Эффекты при наведении и адаптив первого экрана") - Эффекты при наведении и адаптив первого экрана
 
-[Урок 16-praktika](https://nati-moriheja.github.io/lesson-16-praktika-4/ "Верстка блока с преимуществами. Слайдер") - Верстка блока с преимуществами. Слайдер
+[Урок 16 - практика - 4a](https://nati-moriheja.github.io/lesson-16-praktika/ "Верстка блока с преимуществами. Слайдер") - Верстка блока с преимуществами. Слайдер
 
-[Урок 17-praktika](https://nati-moriheja.github.io/lesson-17-praktika-5/ "Верстка всплывающих окон на сайте") - Верстка всплывающих окон на сайте
+[Урок 17 - практика - 5](https://nati-moriheja.github.io/lesson-17-praktika/ "Верстка всплывающих окон на сайте") - Верстка всплывающих окон на сайте
 
-[Урок 18-praktika](https://nati-moriheja.github.io/lesson-18-praktika-6/ "Верстка блока с ценами") - Верстка блока с ценами 
+[Урок 18 - практика - 6](https://nati-moriheja.github.io/lesson-18-praktika/ "Верстка блока с ценами") - Верстка блока с ценами 
 
 ### Модуль 6. Важно знать и уметь - практика
 
-[Урок 19-praktika](https://nati-moriheja.github.io/lesson-19-praktika-7/ "Верстка блока с отзывами") - Верстка блока с отзывами  
+[Урок 19 - практика - 7](https://nati-moriheja.github.io/lesson-19-praktika/ "Верстка блока с отзывами") - Верстка блока с отзывами  
 
-[Урок 20-praktika](https://nati-moriheja.github.io/lesson-20-praktika-8/ "Доверстали блок с отзывами") - Доверстали блок с отзывами 
+[Урок 20 - практика - 8](https://nati-moriheja.github.io/lesson-20-praktika/ "Доверстали блок с отзывами") - Доверстали блок с отзывами 
 
-[Урок 21-praktika](https://nati-moriheja.github.io/lesson-21-praktika-9/ "Верстаем схему работы и все включено ") - Верстаем схему работы и все включено 
+[Урок 21 - практика - 9](https://nati-moriheja.github.io/lesson-21-praktika/ "Верстаем схему работы и все включено ") - Верстаем схему работы и все включено 
 
 ## Интенсив
 
 [Портфолио](https://nati-moriheja.github.io/intensiv// "Портфолио за три дня") - Портфолио за три дня
+
+
+
 
 
 
